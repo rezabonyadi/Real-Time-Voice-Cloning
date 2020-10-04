@@ -1,0 +1,32 @@
+name: voice_clone
+dependencies:
+    - python==3.7
+    - matplotlib==3.2.2    
+    - numpy
+    - scipy
+    - Unidecode
+    - numba==0.48
+    - pytorch::pytorch 
+    - pytorch::torchvision 
+    - conda-forge::ffmpeg
+    - pip:
+        - tensorflow==1.15
+        - tensorflow-gpu==1.15
+        - librosa    
+        - tqdm
+        - SoundFile
+        - umap-learn
+        - webrtcvad-wheels
+        - sounddevice
+        - inflect
+        - PyQt5
+        - visdom
+        - multiprocess
+
+
+
+    
+
+
+  
+
