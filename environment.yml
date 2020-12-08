@@ -4,7 +4,7 @@ dependencies:
     - matplotlib==3.2.2    
     - numpy
     - scipy
-    - Unidecode
+    - unidecode
     - numba==0.48
     - pytorch::pytorch 
     - pytorch::torchvision 
